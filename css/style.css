@@ -73,7 +73,7 @@ li{
 
 /* Global css end here */
 .bg{
-    background-image: url(/img/1.jpg);
+    background-image: url(../img/1.jpg);
     
     height: 600px;
 }
